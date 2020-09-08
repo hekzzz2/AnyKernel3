@@ -13,8 +13,8 @@ do.cleanuponabort=0
 device.name1=whyred
 device.name2=wayne
 device.name3=tulip
-device.name4=
-device.name5=
+device.name4=jasmine
+device.name5=lavender
 supported.versions=
 supported.patchlevels=
 '; } # end properties
